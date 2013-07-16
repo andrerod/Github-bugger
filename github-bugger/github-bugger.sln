@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github-bugger", "github-bugger\github-bugger.csproj", "{56EA577E-70B4-44AF-8EE9-CA984BDE99DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github", "github\github.csproj", "{2E504214-9122-44CD-BDF8-07B4221FD07A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -10,6 +12,12 @@ Global
 		AppStore|x86 = AppStore|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.AppStore|x86.ActiveCfg = Release|Any CPU
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.AppStore|x86.Build.0 = Release|Any CPU
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E504214-9122-44CD-BDF8-07B4221FD07A}.Release|x86.Build.0 = Release|Any CPU
 		{56EA577E-70B4-44AF-8EE9-CA984BDE99DC}.AppStore|x86.ActiveCfg = AppStore|x86
 		{56EA577E-70B4-44AF-8EE9-CA984BDE99DC}.AppStore|x86.Build.0 = AppStore|x86
 		{56EA577E-70B4-44AF-8EE9-CA984BDE99DC}.Debug|x86.ActiveCfg = Debug|x86

@@ -91,4 +91,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\github\github.csproj">
+      <Project>{2E504214-9122-44CD-BDF8-07B4221FD07A}</Project>
+      <Name>github</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
